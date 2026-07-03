@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://projeto-nodejs-bmen.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -8,11 +8,11 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:3333/videos
+GET https://projeto-nodejs-bmen.onrender.com/videos
 
 
 ###
-PUT http://localhost:3333/videos/e92fb7b9-9a6c-47d6-9a57-072d870f1cce
+PUT https://projeto-nodejs-bmen.onrender.com/videos/e92fb7b9-9a6c-47d6-9a57-072d870f1cce
 Content-Type: application/json
 
 {
@@ -22,5 +22,5 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:3333/videos/e92fb7b9-9a6c-47d6-9a57-072d870f1cce
+DELETE https://projeto-nodejs-bmen.onrender.com/videos/e92fb7b9-9a6c-47d6-9a57-072d870f1cce
  
